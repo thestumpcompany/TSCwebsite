@@ -44,6 +44,7 @@ body{
 
 .menu-icon:hover .line{
     width: 2.5rem;
+    background-color: #deaa86;
 }
 
 .line{
@@ -328,9 +329,6 @@ body{
     animation: anim 4.5s 1.5s backwards
     
 }
-
-
-
 
 
 @keyframes anim{
@@ -740,6 +738,8 @@ body{
 
     .creator-part{
         flex-direction: column;
+        justify-content: center;
+        align-content: center;
     }
 
     .copyright-text{
@@ -767,10 +767,21 @@ body{
 
     .creator-part{
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .copyright-text{
         order: 1;
+        font-size: .8rem;
+    }
+
+    .text-right{
+        font-size: .8rem;
+    }
+
+    .fas.fa-heart{
+        font-size: .8rem;
     }
     .about-us-images{
         margin-top: 8rem;
@@ -868,6 +879,7 @@ body{
     }
     .social-link{
         font-size: 1.5rem;
+        letter-spacing: 1.5rem;
     }
 
     .about-us-heading{
