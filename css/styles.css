@@ -953,4 +953,9 @@ body{
     .nav-telephone{
         font-size: 1.4rem;
     }
+
+    .footer-list-link{
+        font-size: 1.2rem;
+    }
+}
 /* END Media Screen Size < 450px */
