@@ -409,6 +409,14 @@ body{
     margin-bottom: 5rem;
 }
 
+.about-us-my-story{
+    padding-top: 3rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+    font-weight: 300;
+    text-decoration: uppercase;
+    color: #b85d1c;
+}
 .about-us-woodmaster{
     font-size: 1.6rem;
     font-style: italic;
