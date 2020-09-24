@@ -909,5 +909,11 @@ body{
         justify-content: center;
         }
 
-}
+    .nav-text{
+        font-size: 1.4rem;
+    }
+
+    .nav-telephone{
+        font-size: 1.4rem;
+    }
 /* END Media Screen Size < 450px */
